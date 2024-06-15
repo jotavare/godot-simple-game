@@ -4,13 +4,21 @@ This repository contains a simple game developed using the Godot Engine. The gam
 
 ## LEARNED
 
-- Scenes and Nodes;
-- 2D Physics;
-- Tilemaps;
-- Animation;
-- Audio;
+| Topic                               | Description                                                                                     |
+|-------------------------------------|-------------------------------------------------------------------------------------------------|
+| **Scenes and Nodes**                | Understand the structure of scenes and how nodes are organized.                                 |
+| **2D Physics and Collisions**       | Learn about physics simulation and collision detection in 2D games.                             |
+| **Tilemaps and Tilesets**           | Explore creating tile-based maps and using tilesets for level design.                           |
+| **Animation and Sprites**           | Create sprite animations and frame-based movement.                                              |
+| **Player Movement and Enemies**     | Implement player controls and add enemy behavior using GDScript.                                |
+| **Static and Kinematic Bodies**     | Understand the different types of physics bodies.                                               |
+| **Audio and Sound Effects**         | Add sound effects and background music with loops and autoloads.                                |
+| **Signals and Timer**               | Use signals for communication between nodes and manage time-based events.                       |
+| **Input and Events**                | Handle player input and respond to events using GDScript.                                       |
+| **Camera and Boundaries**           | Control the camera view and manage world boundaries.                                            |
+| **Labels and Restart Loop**         | Implement informational labels and restart conditions.                                          |
 
-## REFERENCES
+## REQUIREMENTS
 
 - [Godot Engine](https://godotengine.org/) `Website`
 - [Brackeys' Platformer Bundle](https://brackeysgames.itch.io/brackeys-platformer-bundle) `Website`
