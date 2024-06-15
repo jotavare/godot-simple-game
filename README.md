@@ -2,9 +2,9 @@
 
 This repository contains a simple 2D game developed using the Godot Engine, with already available assets and following a guide. It's a platformer where you avoid falling and collect coins.
 
-<p align="center">
-  <img width="800" src="./game/game.png" />
-</p>
+Includes enemies, sound effects, background music, restart conditions, player controls, sprite animations, camera view, world boundaries, informational labels, time-based events, and more.
+
+<img src="./game/game.png" />
 
 
 ## TOPICS I LEARNED
