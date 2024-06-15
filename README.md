@@ -1,8 +1,11 @@
 ## ABOUT
 
-This repository contains a simple game developed using the Godot Engine. The game was developed following a guide. The game is a platformer where you avoid falling and collect coins.
+This repository contains a simple 2D game developed using the Godot Engine, with already available assets and following a guide. It's a platformer where you avoid falling and collect coins.
 
-![](game/game.png "Game")
+<p align="center">
+  <img width="500" src="./game/game.png" />
+</p>
+
 
 ## TOPICS I LEARNED
 
@@ -21,16 +24,16 @@ This repository contains a simple game developed using the Godot Engine. The gam
 ## REQUIREMENTS
 
 - [How to make a Video Game - Godot Beginner Tutorial](https://youtu.be/LOhfqjmasi0?si=FOhDy-tuMkdaqCuv) `YouTube`
-- [Godot Engine](https://godotengine.org/) `Website`
 - [Brackeys' Platformer Bundle](https://brackeysgames.itch.io/brackeys-platformer-bundle) `Website`
+- [Godot Engine](https://godotengine.org/) `Website`
 
 > [!NOTE] 
-> The assets are released under a Creative Commons Zero (CC0) license. You can distribute, remix, adapt, and build upon the material in any medium or format, even for commercial purposes. Attribution is not required.
+> The assets are released under a **Creative Commons Zero (CC0)** license. You can distribute, remix, adapt, and build upon the material in any medium or format, even for commercial purposes. Attribution is not required.
 
 ## EXPORT
 
 1. Open Godot Engine and load the project `project.godot` file;
-2. Go to `Project > Export...`;
+2. Go to `Project` > `Export...`;
 3. Click on `Add...` and select the platform you want to export the game;
 4. Configure the export settings;
 5. Click on `Export Project...` and select the folder where you want to export the game.
