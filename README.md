@@ -1,27 +1,26 @@
 ## ABOUT
 
-This repository contains a simple game developed using the Godot Engine. The game was developed following the [How to make a Video Game - Godot Beginner Tutorial](https://youtu.be/LOhfqjmasi0?si=FOhDy-tuMkdaqCuv) tutorial by [Brackeys](https://www.youtube.com/c/Brackeys). The game is a platformer where you avoid falling and collect coins.
+This repository contains a simple game developed using the Godot Engine. The game was developed following a guide. The game is a platformer where you avoid falling and collect coins.
 
 ![](game/game.png "Game")
 
-## LEARNED
+## TOPICS I LEARNED
 
-| Topic                               |
-|-------------------------------------|
-| Understand the structure of scenes and how nodes are organized.           |
-| Learn about physics simulation and collision detection in 2D games.       |
-| Explore creating tile-based maps and using tilesets for level design.     |
-| Create sprite animations and frame-based movement.                        |
-| Implement player controls and add enemy behavior using GDScript.          |
-| Understand the different types of physics bodies.                         |
-| Add sound effects and background music with loops and autoloads.          |
-| Use signals for communication between nodes and manage time-based events. |
-| Handle player input and respond to events using GDScript.                 |
-| Control the camera view and manage world boundaries.                      |
-| Implement informational labels and restart conditions.                    |
+- Understand the structure of scenes and how nodes are organized.
+- Learn about physics simulation and collision detection in 2D games.
+- Explore creating tile-based maps and using tilesets for level design.
+- Create sprite animations and frame-based movement.
+- Implement player controls and add enemy behavior using GDScript.
+- Understand the different types of physics bodies.
+- Add sound effects and background music with loops and autoloads.
+- Use signals for communication between nodes and manage time-based events.
+- Handle player input and respond to events using GDScript.
+- Control the camera view and manage world boundaries.
+- Implement informational labels and restart conditions.
 
 ## REQUIREMENTS
 
+- [How to make a Video Game - Godot Beginner Tutorial](https://youtu.be/LOhfqjmasi0?si=FOhDy-tuMkdaqCuv) `YouTube`
 - [Godot Engine](https://godotengine.org/) `Website`
 - [Brackeys' Platformer Bundle](https://brackeysgames.itch.io/brackeys-platformer-bundle) `Website`
 
