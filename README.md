@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Godot-4.2-478cbf?logo=godotengine&logoColor=white" alt="Godot 4.2" />
+  <img src="https://img.shields.io/github/license/jotavare/godot-simple-game" alt="License" />
+</p>
+
+<p align="center">
+  <a href="#about">ABOUT</a> •
+  <a href="#topics-i-learned">TOPICS I LEARNED</a> •
+  <a href="#requirements">REQUIREMENTS</a> •
+  <a href="#export">EXPORT</a> •
+  <a href="#contributing">CONTRIBUTING</a> •
+  <a href="#license">LICENSE</a>
+</p>
+
 ## ABOUT
 
 This repository contains a simple 2D game developed using the Godot Engine, with already available assets and following a guide. It's a platformer where you avoid falling and collect coins.
@@ -41,7 +55,7 @@ Includes enemies, sound effects, background music, restart conditions, player co
 
 ## CONTRIBUTING
 
-If you find any issues or have suggestions for improvements, feel free to fork the repository and open an issue or submit a pull request.
+This is a personal learning project and is not open to external contributions. Issues and pull requests are disabled.
 
 ## LICENSE
 
