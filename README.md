@@ -55,7 +55,7 @@ Includes enemies, sound effects, background music, restart conditions, player co
 
 ## CONTRIBUTING
 
-This is a personal learning project and is not open to external contributions. Issues and pull requests are disabled.
+This repository is finished and not open to changes.
 
 ## LICENSE
 
