@@ -1,17 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Godot-4.2-478cbf?logo=godotengine&logoColor=white" alt="Godot 4.2" />
-  <img src="https://img.shields.io/github/license/jotavare/godot-simple-game" alt="License" />
-</p>
-
-<p align="center">
-  <a href="#about">ABOUT</a> •
-  <a href="#topics-i-learned">TOPICS I LEARNED</a> •
-  <a href="#requirements">REQUIREMENTS</a> •
-  <a href="#export">EXPORT</a> •
-  <a href="#contributing">CONTRIBUTING</a> •
-  <a href="#license">LICENSE</a>
-</p>
-
 ## ABOUT
 
 This repository contains a simple 2D game developed using the Godot Engine, with already available assets and following a guide. It's a platformer where you avoid falling and collect coins.
@@ -19,7 +5,6 @@ This repository contains a simple 2D game developed using the Godot Engine, with
 Includes enemies, sound effects, background music, restart conditions, player controls, sprite animations, camera view, world boundaries, informational labels, time-based events, and more.
 
 <img src="./game/game.png" />
-
 
 ## TOPICS I LEARNED
 
@@ -41,7 +26,7 @@ Includes enemies, sound effects, background music, restart conditions, player co
 - [Brackeys' Platformer Bundle](https://brackeysgames.itch.io/brackeys-platformer-bundle) `Website`
 - [Godot Engine](https://godotengine.org/) `Website`
 
-> [!NOTE] 
+> [!NOTE]
 > The assets are released under a **Creative Commons Zero (CC0)** license. You can distribute, remix, adapt, and build upon the material in any medium or format, even for commercial purposes. Attribution is not required.
 
 ## EXPORT
@@ -52,11 +37,3 @@ Includes enemies, sound effects, background music, restart conditions, player co
 4. Configure the export settings;
 5. Click on `Export Project...` and select the folder where you want to export the game.
 6. Play the game by running the executable file.
-
-## CONTRIBUTING
-
-This repository is finished and not open to changes.
-
-## LICENSE
-
-This project is available under the MIT License. For further details, please refer to the [LICENSE](https://github.com/jotavare/godot-simple-game/blob/main/LICENSE) file.
